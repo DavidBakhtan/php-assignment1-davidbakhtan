@@ -52,6 +52,7 @@ if (!$product) exit('Product not found.');
                     </select>
                 </label>
                 <button type="submit">Update Product</button>
+                <a href="product_list.php" class="back"><button type="button" class="back">Back to List</button></a>
             </form>
         </main>
         <footer>&copy; 2025 SportsPro Inc.</footer>

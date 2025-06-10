@@ -22,3 +22,9 @@ INSERT INTO products (name, price, categoryID) VALUES
 ('Product A', 10.00, 1),
 ('Product B', 20.00, 2),
 ('Product C', 30.00, 3);
+
+// File: exercise2-1.php (unchanged)
+... (same as before)
+
+// File: exercise2-2.php (unchanged)
+... (same as before)

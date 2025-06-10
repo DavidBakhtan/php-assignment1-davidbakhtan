@@ -53,6 +53,7 @@
                 <input type="number" id="discount" name="discount" step="0.01" min="0" max="100" required value="<?=htmlspecialchars($discount)?>">
 
                 <button type="submit">Calculate</button>
+                <a href="index.php" class="back"><button type="button" class="back">Back to Menu</button></a>
             </form>
 
             <?php if (!empty($errors)): ?>

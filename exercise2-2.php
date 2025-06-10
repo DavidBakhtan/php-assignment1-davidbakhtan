@@ -57,6 +57,7 @@
                 </select>
 
                 <button type="submit">Compute</button>
+                <a href="index.php" class="back"><button type="button" class="back">Back to Menu</button></a>
             </form>
 
             <?php if ($result !== ''): ?>
